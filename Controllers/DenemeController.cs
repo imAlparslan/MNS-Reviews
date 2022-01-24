@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using MNS_Reviews.Models;
 using System.Linq;
 namespace MNS_Reviews.Controllers
@@ -22,14 +23,23 @@ namespace MNS_Reviews.Controllers
         {
             return View();
         }
+
+
+        [Authorize(Roles = "admin")]
         [HttpGet]
         public IActionResult AddDeneme()
         {
+            
             return View();
         }
+
         [HttpPost]
         public IActionResult AddDeneme(Deneme deneme)
         {
+            if (!ModelState.IsValid)
+            {
+                return View("AddDeneme");
+            }
             
             context.denemes.Add(deneme);
             context.SaveChanges();

@@ -1,5 +1,7 @@
 using MNS_Reviews.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authentication.Cookies;
+
 var builder = WebApplication.CreateBuilder(args);
 
 
@@ -8,7 +10,12 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddAuthentication();
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie
+    (x =>
+    {
+        x.LoginPath = "/login/index/";
+    });
+
 
 
 builder.Services.AddDbContext<DataContext>(options =>

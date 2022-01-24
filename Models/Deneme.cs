@@ -8,7 +8,8 @@ namespace MNS_Reviews.Models
     {
         public int Id { get; set; }
 
-        [Required]
+        
+        [Required(ErrorMessage ="Please fill Name Area")]
         [StringLength(100)]
         [Display(Name ="Name Area")]
         public string name { get; set; }

@@ -3,19 +3,11 @@ i:{00000000-0000-0000-0000-000000000000}:MNS-Reviews.sln
 ++MNS-Reviews
 i:{00000000-0000-0000-0000-000000000000}:MNS-Reviews
 ++Connected Services 
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:>2048
-++No service dependencies discovered
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:>2049
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:>2321
 ++Dependencies
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:>2047
-++Analyzers
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:analyzers
-++Frameworks
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:frameworks
-++Packages
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:packages
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:>2320
 ++Imports
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:>954
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:>1090
 ++Properties
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\properties\
 ++PublishProfiles
@@ -27,8 +19,8 @@ i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-rev
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\
 ++css
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\css\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\css\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\
 ++form.css
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\css\form.css
@@ -47,16 +39,19 @@ i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-rev
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\images\
 ++js
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\js\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\js\
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\js\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\js\
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\js\
+++site.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\js\site.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\js\site.js
 ++lib
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\unix\lib\
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win\lib\
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-arm\lib\
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-arm64\lib\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\unix\lib\
 ++favicon.ico
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\favicon.ico
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\favicon.ico
@@ -66,252 +61,9 @@ i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-rev
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\.config\dotnet-tools.json
 ++bin
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\
-++Controllers
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\controllers\
-++HomeController.cs
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\controllers\homecontroller.cs
-++LoginController.cs
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\controllers\logincontroller.cs
-++MovieController.cs
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\controllers\moviecontroller.cs
-++RegisterController.cs
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\controllers\registercontroller.cs
-++ReviewController.cs
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\controllers\reviewcontroller.cs
-++SerieController.cs
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\controllers\seriecontroller.cs
-++TrailerController.cs
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\controllers\trailercontroller.cs
-++Models
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\models\
-++DataContext.cs
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\models\datacontext.cs
-++Deneme.cs
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\models\deneme.cs
-++ErrorViewModel.cs
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\models\errorviewmodel.cs
-++Movie.cs
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\models\movie.cs
-++Post.cs
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\models\post.cs
-++Review.cs
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\models\review.cs
-++Serie.cs
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\models\serie.cs
-++Trailer.cs
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\models\trailer.cs
-++obj
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\
-++Views
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\debug\net6.0\scopedcss\views\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\scopedcss\views\
-++Home
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\home\
-++Index.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\home\index.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\login\index.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\register\index.cshtml
-++MoviesList.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\home\movieslist.cshtml
-++ReviewsList.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\home\reviewslist.cshtml
-++SeriesList.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\home\serieslist.cshtml
-++TrailersList.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\home\trailerslist.cshtml
-++Login
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\login\
-++Movie
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\movie\
-++MovieDetail.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\movie\moviedetail.cshtml
-++Register
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\register\
-++Review
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\review\
-++ReviewDetail.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\review\reviewdetail.cshtml
-++Serie
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\serie\
-++SerieDetail.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\serie\seriedetail.cshtml
-++Shared
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\debug\net6.0\scopedcss\views\shared\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\scopedcss\views\shared\
-++_Comment.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\_comment.cshtml
-++_Layout.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\_layout.cshtml
-++_MovieDetail.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\_moviedetail.cshtml
-++_MyLayout.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\_mylayout.cshtml
-++_Post.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\_post.cshtml
-++_ReviewDetail.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\_reviewdetail.cshtml
-++_SerieDetail.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\_seriedetail.cshtml
-++_ValidationScriptsPartial.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\_validationscriptspartial.cshtml
-++Error.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\error.cshtml
-++Trailer
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\trailer\
-++TrailerDetail.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\trailer\trailerdetail.cshtml
-++_ViewImports.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\_viewimports.cshtml
-++_ViewStart.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\_viewstart.cshtml
-++.gitattributes
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\.gitattributes
-++.gitignore
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\.gitignore
-++appsettings.json
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\appsettings.json
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\appsettings.json
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\release\net6.0\appsettings.json
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\appsettings.json
-++MNS-Reviews.sln
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\mns-reviews.sln
-++Program.cs
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\program.cs
-++MessagePackAnalyzer
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
-++Microsoft.AspNetCore.Analyzers
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
-++Microsoft.AspNetCore.App.Analyzers
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
-++Microsoft.AspNetCore.App.CodeFixes
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
-++Microsoft.AspNetCore.Components.Analyzers
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
-++Microsoft.AspNetCore.Mvc.Analyzers
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
-++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
-++Microsoft.CodeAnalysis.Analyzers
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
-++Microsoft.CodeAnalysis.CSharp.Analyzers
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
-++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-++Microsoft.CodeAnalysis.NetAnalyzers
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-++Microsoft.EntityFrameworkCore.Analyzers
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-++Microsoft.Extensions.Logging.Generators
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-++Microsoft.NET.Sdk.Razor.SourceGenerators
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
-++System.Text.Json.SourceGeneration
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
-++Microsoft.AspNetCore.App
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\microsoft.aspnetcore.app
-++Microsoft.NETCore.App
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\microsoft.netcore.app
-++Microsoft.EntityFrameworkCore (6.0.1)
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:>2075
-++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.1)
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:>2069
-++Sdk.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\sdk\sdk.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.illink.tasks\sdk\sdk.props
-++Sdk.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\sdk\sdk.targets
-++FolderProfile.pubxml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\properties\publishprofiles\folderprofile.pubxml
-++FolderProfile.pubxml.user
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\properties\publishprofiles\folderprofile.pubxml.user
-++matrix4.jpg
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\images\matrix4.jpg
-++site.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\js\site.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\js\site.js
-++bootstrap
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\
-++jquery
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery\
-++jquery-validation
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation\
-++jquery-validation-unobtrusive
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation-unobtrusive\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation-unobtrusive\
 ++Debug
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\debug\
-++Release
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\release\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\
-++MNS-Reviews.csproj.EntityFrameworkCore.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\mns-reviews.csproj.entityframeworkcore.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\mns-reviews.csproj.entityframeworkcore.targets
-++MNS-Reviews.csproj.nuget.dgspec.json
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\mns-reviews.csproj.nuget.dgspec.json
-++MNS-Reviews.csproj.nuget.g.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\mns-reviews.csproj.nuget.g.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\mns-reviews.csproj.nuget.g.props
-++MNS-Reviews.csproj.nuget.g.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\mns-reviews.csproj.nuget.g.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\mns-reviews.csproj.nuget.g.targets
-++project.assets.json
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\project.assets.json
-++project.nuget.cache
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\project.nuget.cache
-++staticwebassets.pack.sentinel
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\staticwebassets.pack.sentinel
-++ForgotPassword.cshtml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\login\forgotpassword.cshtml
-++_Layout.cshtml.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\_layout.cshtml.css
-++appsettings.Development.json
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\appsettings.development.json
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\appsettings.development.json
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\release\net6.0\appsettings.development.json
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\appsettings.development.json
-++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\Sdk)
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\sdk\sdk.props
-++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\sdk\sdk.props
-++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
-++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\sdk\sdk.props
-++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\Sdk)
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\sdk\sdk.targets
-++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
-++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
-++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
-++dist
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery\dist\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation\dist\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery\dist\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation\dist\
-++LICENSE
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\license
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\license
-++LICENSE.txt
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery\license.txt
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation-unobtrusive\license.txt
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery\license.txt
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation-unobtrusive\license.txt
-++LICENSE.md
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation\license.md
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation\license.md
-++jquery.validate.unobtrusive.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 ++net6.0
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\release\net6.0\
@@ -319,44 +71,6 @@ i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-rev
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-arm\lib\net6.0\
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-arm64\lib\net6.0\
-++Microsoft.Common.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
-++Microsoft.NET.Sdk.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
-++Sdk.Razor.CurrentVersion.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
-++Microsoft.NET.Sdk.Web.ProjectSystem.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
-++Microsoft.NET.Sdk.Publish.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
-++Microsoft.NET.Sdk.BeforeCommon.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
-++Microsoft.CSharp.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
-++Microsoft.NET.Sdk.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
-++Microsoft.NET.Compatibility.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
-++NuGet.Build.Tasks.Pack.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
-++Sdk.Razor.CurrentVersion.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
-++Microsoft.NET.Sdk.Web.ProjectSystem.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
-++Microsoft.NET.Sdk.Publish.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
-++jquery.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery\dist\jquery.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery\dist\jquery.js
-++additional-methods.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation\dist\additional-methods.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation\dist\additional-methods.js
-++jquery.validate.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-++jquery.validate.unobtrusive.min.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 ++cs
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\cs\
 ++de
@@ -390,6 +104,16 @@ i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-rev
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\zh-hans\
 ++zh-Hant
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\zh-hant\
+++appsettings.Development.json
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\appsettings.development.json
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\release\net6.0\appsettings.development.json
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\appsettings.development.json
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\appsettings.development.json
+++appsettings.json
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\appsettings.json
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\release\net6.0\appsettings.json
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\appsettings.json
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\appsettings.json
 ++dotnet-aspnet-codegenerator-design.dll
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\dotnet-aspnet-codegenerator-design.dll
 ++Humanizer.dll
@@ -432,10 +156,36 @@ i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-rev
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.codeanalysis.workspaces.dll
 ++Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.codeanalysis.workspaces.msbuild.dll
+++Microsoft.Data.SqlClient.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.data.sqlclient.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
 ++Microsoft.DiaSymReader.dll
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.diasymreader.dll
 ++Microsoft.DotNet.Scaffolding.Shared.dll
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.dotnet.scaffolding.shared.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Identity.Client.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.identitymodel.tokens.dll
 ++Microsoft.VisualStudio.Debugger.Contracts.dll
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.visualstudio.debugger.contracts.dll
 ++Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -450,6 +200,9 @@ i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-rev
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.utils.dll
 ++Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.visualstudio.web.codegenerators.mvc.dll
+++Microsoft.Win32.SystemEvents.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.win32.systemevents.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\microsoft.win32.systemevents.dll
 ++MNS-Reviews.deps.json
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\mns-reviews.deps.json
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\release\net6.0\mns-reviews.deps.json
@@ -458,12 +211,12 @@ i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-rev
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\mns-reviews.dll
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\release\net6.0\mns-reviews.dll
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\debug\net6.0\mns-reviews.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\mns-reviews.dll
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\mns-reviews.dll
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\ref\mns-reviews.dll
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\release\net6.0\ref\mns-reviews.dll
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\debug\net6.0\ref\mns-reviews.dll
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\ref\mns-reviews.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\mns-reviews.dll
 ++MNS-Reviews.exe
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\mns-reviews.exe
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\release\net6.0\mns-reviews.exe
@@ -472,8 +225,8 @@ i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-rev
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\mns-reviews.pdb
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\release\net6.0\mns-reviews.pdb
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\debug\net6.0\mns-reviews.pdb
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\mns-reviews.pdb
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\mns-reviews.pdb
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\mns-reviews.pdb
 ++MNS-Reviews.runtimeconfig.json
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\mns-reviews.runtimeconfig.json
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\release\net6.0\mns-reviews.runtimeconfig.json
@@ -511,9 +264,72 @@ i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-rev
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\system.composition.runtime.dll
 ++System.Composition.TypedParts.dll
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\system.composition.typedparts.dll
+++System.Configuration.ConfigurationManager.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\system.configuration.configurationmanager.dll
+++System.Drawing.Common.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\system.drawing.common.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\system.drawing.common.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.drawing.common.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\system.identitymodel.tokens.jwt.dll
+++System.Runtime.Caching.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\system.runtime.caching.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
 ++System.Security.Cryptography.ProtectedData.dll
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\system.security.cryptography.protecteddata.dll
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+++System.Security.Permissions.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\system.security.permissions.dll
+++System.Windows.Extensions.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\system.windows.extensions.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.windows.extensions.dll
+++Release
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\release\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\
+++Controllers
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\controllers\
+++DenemeController.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\controllers\denemecontroller.cs
+++HomeController.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\controllers\homecontroller.cs
+++LoginController.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\controllers\logincontroller.cs
+++MovieController.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\controllers\moviecontroller.cs
+++RegisterController.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\controllers\registercontroller.cs
+++ReviewController.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\controllers\reviewcontroller.cs
+++SerieController.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\controllers\seriecontroller.cs
+++TrailerController.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\controllers\trailercontroller.cs
+++UserController.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\controllers\usercontroller.cs
+++Migrations
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\migrations\
+++Models
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\models\
+++DataContext.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\models\datacontext.cs
+++Deneme.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\models\deneme.cs
+++ErrorViewModel.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\models\errorviewmodel.cs
+++Movie.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\models\movie.cs
+++Post.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\models\post.cs
+++Review.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\models\review.cs
+++Serie.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\models\serie.cs
+++Trailer.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\models\trailer.cs
+++User.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\models\user.cs
+++obj
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\
 ++scopedcss
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\debug\net6.0\scopedcss\
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\scopedcss\
@@ -575,174 +391,144 @@ i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-rev
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\staticwebassets.development.json
 ++PubTmp
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\
+++Out
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\
+++web.config
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\web.config
 ++PublishOutputs.9c64c1a767.txt
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\publishoutputs.9c64c1a767.txt
 ++staticwebassets.publish.json
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\staticwebassets.publish.json
-++Microsoft.NuGet.ImportBefore.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
-++NuGet.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
-++Microsoft.NET.Sdk.DefaultItems.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
-++Microsoft.NET.Sdk.ImportWorkloads.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
-++Microsoft.NET.SupportedTargetFrameworks.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
-++Microsoft.NET.SupportedPlatforms.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
-++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
-++Microsoft.NET.Sdk.CSharp.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
-++Microsoft.NET.ILLink.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
-++Microsoft.NET.Compatibility.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
-++Microsoft.NET.PackTool.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
-++Microsoft.NET.PackProjectTool.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
-++Microsoft.NET.Sdk.WindowsDesktop.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
-++Microsoft.NET.Windows.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
-++Sdk.Razor.StaticAssets.ProjectSystem.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
-++Microsoft.TypeScript.Default.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
-++Microsoft.NET.Sdk.Web.DefaultItems.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
-++Microsoft.NET.DefaultAssemblyInfo.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
-++Microsoft.NET.DefaultOutputPaths.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
-++Microsoft.NET.Sdk.ImportPublishProfile.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
-++Microsoft.NET.TargetFrameworkInference.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
-++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
-++Microsoft.NET.Sdk.ImportWorkloads.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
-++Microsoft.NET.RuntimeIdentifierInference.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
-++Microsoft.NET.EolTargetFrameworks.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
-++Microsoft.NET.NuGetOfflineCache.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
-++Microsoft.Managed.Before.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
-++Microsoft.CSharp.CurrentVersion.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
-++Microsoft.Managed.After.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
-++Microsoft.NET.Sdk.Common.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
-++Microsoft.PackageDependencyResolution.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
-++Microsoft.NET.Sdk.DefaultItems.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
-++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
-++Microsoft.NET.Sdk.Shared.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
-++Microsoft.NET.DisableStandardFrameworkResolution.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
-++Microsoft.NET.DesignerSupport.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
-++Microsoft.NET.GenerateAssemblyInfo.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
-++Microsoft.NET.GenerateGlobalUsings.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
-++Microsoft.NET.GenerateSupportedRuntime.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
-++Microsoft.NET.ComposeStore.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
-++Microsoft.NET.CrossGen.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
-++Microsoft.NET.ObsoleteReferences.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
-++Microsoft.NET.Publish.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
-++Microsoft.NET.PackTool.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
-++Microsoft.NET.PackProjectTool.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
-++Microsoft.NET.PreserveCompilationContext.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
-++Microsoft.NET.ConflictResolution.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
-++Microsoft.NET.Sdk.CSharp.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
-++Microsoft.NET.ILLink.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
-++Microsoft.NET.Sdk.Analyzers.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
-++Microsoft.NET.Compatibility.Common.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
-++Microsoft.NET.Sdk.Razor.Configuration.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
-++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
-++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.sourcegenerators.targets
-++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.targets
-++Microsoft.NET.Sdk.Razor.ScopedCss.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.targets
-++Microsoft.NET.Sdk.Razor.JSModules.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.jsmodules.targets
-++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
-++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
-++Microsoft.NET.Sdk.Razor.DesignTime.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
-++Microsoft.TypeScript.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
-++Microsoft.TypeScript.DotNetCore.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
-++Microsoft.Web.Designtime.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
-++Default.pubxml
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
-++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
-++Microsoft.NET.Sdk.Publish.FilterFiles.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
-++Microsoft.NET.Sdk.Publish.CopyFiles.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
-++Microsoft.NET.Sdk.Publish.TransformFiles.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
-++Microsoft.NET.Sdk.Publish.FileSystem.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
-++Microsoft.NET.Sdk.DotNetCLITool.targets
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
-++bootstrap.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-++bootstrap-grid.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-++bootstrap-reboot.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-++bootstrap-utilities.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
-++bootstrap.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-++jquery.min.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery\dist\jquery.min.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery\dist\jquery.min.js
-++additional-methods.min.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-++jquery.validate.min.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++MNS-Reviews.csproj.EntityFrameworkCore.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\mns-reviews.csproj.entityframeworkcore.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\mns-reviews.csproj.entityframeworkcore.targets
+++MNS-Reviews.csproj.nuget.dgspec.json
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\mns-reviews.csproj.nuget.dgspec.json
+++MNS-Reviews.csproj.nuget.g.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\mns-reviews.csproj.nuget.g.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\mns-reviews.csproj.nuget.g.props
+++MNS-Reviews.csproj.nuget.g.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\mns-reviews.csproj.nuget.g.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\mns-reviews.csproj.nuget.g.targets
+++project.assets.json
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\project.assets.json
+++project.nuget.cache
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\project.nuget.cache
+++staticwebassets.pack.sentinel
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\staticwebassets.pack.sentinel
+++Views
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\debug\net6.0\scopedcss\views\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\scopedcss\views\
+++Deneme
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\deneme\
+++AddDeneme.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\deneme\adddeneme.cshtml
+++Index.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\deneme\index.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\home\index.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\login\index.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\register\index.cshtml
+++Thx.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\deneme\thx.cshtml
+++Home
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\home\
+++MoviesList.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\home\movieslist.cshtml
+++ReviewsList.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\home\reviewslist.cshtml
+++SeriesList.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\home\serieslist.cshtml
+++TrailersList.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\home\trailerslist.cshtml
+++Login
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\login\
+++ForgotPassword.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\login\forgotpassword.cshtml
+++Movie
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\movie\
+++Create.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\movie\create.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\review\create.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\serie\create.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\trailer\create.cshtml
+++MovieDetail.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\movie\moviedetail.cshtml
+++Register
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\register\
+++Review
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\review\
+++ReviewDetail.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\review\reviewdetail.cshtml
+++Serie
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\serie\
+++SerieDetail.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\serie\seriedetail.cshtml
+++Shared
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\debug\net6.0\scopedcss\views\shared\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\scopedcss\views\shared\
+++_Comment.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\_comment.cshtml
+++_Layout.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\_layout.cshtml
+++_MovieDetail.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\_moviedetail.cshtml
+++_MyLayout.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\_mylayout.cshtml
+++_Post.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\_post.cshtml
+++_ReviewDetail.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\_reviewdetail.cshtml
+++_SerieDetail.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\_seriedetail.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\error.cshtml
+++Trailer
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\trailer\
+++TrailerDetail.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\trailer\trailerdetail.cshtml
+++_ViewImports.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\_viewstart.cshtml
+++MNS-Reviews.sln
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\mns-reviews.sln
+++Program.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\program.cs
+++No service dependencies discovered
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:>2322
+++Analyzers
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:analyzers
+++Frameworks
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:frameworks
+++Packages
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:packages
+++Sdk.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++FolderProfile.pubxml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\properties\publishprofiles\folderprofile.pubxml
+++FolderProfile.pubxml.user
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\properties\publishprofiles\folderprofile.pubxml.user
+++matrix4.jpg
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\images\matrix4.jpg
+++bootstrap
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\
+++jquery
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery\
+++jquery-validation
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation-unobtrusive\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation-unobtrusive\
 ++Microsoft.CodeAnalysis.CSharp.Features.resources.dll
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.features.resources.dll
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.features.resources.dll
@@ -911,20 +697,351 @@ i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-rev
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\tr\microsoft.codeanalysis.workspaces.resources.dll
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.workspaces.resources.dll
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.workspaces.resources.dll
+++unix
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\unix\
 ++win
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win\
 ++win-arm
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-arm\
 ++win-arm64
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-arm64\
+++win-x64
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-x64\
+++win-x86
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-x86\
+++20220124161222_mg1.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\migrations\20220124161222_mg1.cs
+++DataContextModelSnapshot.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\migrations\datacontextmodelsnapshot.cs
 ++bundle
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\debug\net6.0\scopedcss\bundle\
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\scopedcss\bundle\
 ++projectbundle
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\debug\net6.0\scopedcss\projectbundle\
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\scopedcss\projectbundle\
-++Out
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\
+++MNS-Reviews.styles.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\mns-reviews.styles.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\debug\net6.0\scopedcss\bundle\mns-reviews.styles.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\scopedcss\bundle\mns-reviews.styles.css
+++_Layout.cshtml.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\views\shared\_layout.cshtml.css
+++MessagePackAnalyzer
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (6.0.1)
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:>2333
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.1)
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:>2334
+++Microsoft.EntityFrameworkCore.Tools (6.0.1)
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:>2336
+++Microsoft.Extensions.DependencyInjection (6.0.0)
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:>2335
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.1)
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:>2337
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++dist
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery\dist\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation\dist\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery\dist\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\license
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery\license.txt
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery\license.txt
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation\license.md
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++native
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-arm\native\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-arm64\native\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-x64\native\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-x86\native\
+++20220124161222_mg1.Designer.cs
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\migrations\20220124161222_mg1.designer.cs
+++MNS-Reviews.bundle.scp.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\debug\net6.0\scopedcss\projectbundle\mns-reviews.bundle.scp.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\scopedcss\projectbundle\mns-reviews.bundle.scp.css
+++Microsoft.Common.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++jquery.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery\dist\jquery.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation\dist\additional-methods.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++netcoreapp3.0
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\
+++netcoreapp3.1
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+++_Layout.cshtml.rz.scp.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\debug\net6.0\scopedcss\views\shared\_layout.cshtml.rz.scp.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\scopedcss\views\shared\_layout.cshtml.rz.scp.css
+++Microsoft.NuGet.ImportBefore.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.sourcegenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.jsmodules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++bootstrap.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery\dist\jquery.min.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++dotnet-aspnet-codegenerator-design.exe
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+++jquery.min.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery\dist\jquery.min.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery\dist\jquery.min.map
+++Microsoft.EntityFrameworkCore.Design.props
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\.nuget\packages\microsoft.entityframeworkcore.design\6.0.1\build\net6.0\microsoft.entityframeworkcore.design.props
 ++Microsoft.NuGet.props
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
 ++Microsoft.NETCoreSdk.BundledVersions.props
@@ -1016,18 +1133,75 @@ i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-rev
 ++bootstrap.min.js
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
-++jquery.min.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\jquery\dist\jquery.min.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\jquery\dist\jquery.min.map
-++MNS-Reviews.styles.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\debug\net6.0\scopedcss\bundle\mns-reviews.styles.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\scopedcss\bundle\mns-reviews.styles.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\mns-reviews.styles.css
-++MNS-Reviews.bundle.scp.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\debug\net6.0\scopedcss\projectbundle\mns-reviews.bundle.scp.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\scopedcss\projectbundle\mns-reviews.bundle.scp.css
-++web.config
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\web.config
+++bootstrap.min.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap.rtl.min.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.min.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-grid.rtl.min.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.min.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-reboot.rtl.min.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.min.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap-utilities.rtl.min.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.js.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.bundle.min.js.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.js.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.esm.min.js.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++bootstrap.min.js.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 ++Microsoft.NET.ILLink.Tasks.props
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
 ++System.Windows.Forms.Analyzers.props
@@ -1038,62 +1212,6 @@ i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studi
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
 ++Microsoft.Common.CurrentVersion.targets
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
-++bootstrap.min.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-++bootstrap.rtl.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-++bootstrap.rtl.min.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-++bootstrap-grid.min.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-++bootstrap-grid.rtl.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-++bootstrap-grid.rtl.min.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
-++bootstrap-reboot.min.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-++bootstrap-reboot.rtl.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
-++bootstrap-reboot.rtl.min.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
-++bootstrap-utilities.min.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
-++bootstrap-utilities.rtl.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
-++bootstrap-utilities.rtl.min.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
-++bootstrap.bundle.js.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
-++bootstrap.bundle.min.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-++bootstrap.esm.js.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
-++bootstrap.esm.min.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
-++bootstrap.min.js.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-++netstandard2.0
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\
-++_Layout.cshtml.rz.scp.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\debug\net6.0\scopedcss\views\shared\_layout.cshtml.rz.scp.css
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\scopedcss\views\shared\_layout.cshtml.rz.scp.css
 ++Microsoft.Managed.Core.CurrentVersions.targets
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
 ++MNS-Reviews.csproj.user
@@ -1121,109 +1239,7 @@ i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studi
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
 ++Microsoft.Web.ImportAfter.targets
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
-++bootstrap.rtl.min.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
-++bootstrap-grid.rtl.min.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
-++bootstrap-reboot.rtl.min.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
-++bootstrap-utilities.rtl.min.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-++bootstrap.bundle.min.js.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
-++bootstrap.esm.min.js.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\obj\release\net6.0\pubtmp\out\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-++dotnet-aspnet-codegenerator-design.exe
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
 ++Microsoft.Docker.targets
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
 ++Microsoft.Web.IISSupport.targets
 i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
-++Microsoft.EntityFrameworkCore.Abstractions.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.entityframeworkcore.abstractions.dll
-++Microsoft.EntityFrameworkCore.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.entityframeworkcore.dll
-++Microsoft.EntityFrameworkCore.SqlServer (6.0.1)
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:>2087
-++Microsoft.Data.SqlClient.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.data.sqlclient.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
-++Microsoft.EntityFrameworkCore.Relational.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.entityframeworkcore.relational.dll
-++Microsoft.Win32.SystemEvents.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.win32.systemevents.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\microsoft.win32.systemevents.dll
-++System.Configuration.ConfigurationManager.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\system.configuration.configurationmanager.dll
-++System.Security.Permissions.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\system.security.permissions.dll
-++System.Windows.Extensions.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\system.windows.extensions.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.windows.extensions.dll
-++native
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-arm\native\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-arm64\native\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-x64\native\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-x86\native\
-++Microsoft.Data.SqlClient.SNI.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
-++win-x64
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-x64\
-++unix
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\unix\
-++netcoreapp3.0
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\
-++netcoreapp3.1
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\
-++System.Drawing.Common.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\system.drawing.common.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.drawing.common.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\system.drawing.common.dll
-++win-x86
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win-x86\
-++System.Runtime.Caching.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\system.runtime.caching.dll
-++Microsoft.EntityFrameworkCore.SqlServer.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.entityframeworkcore.sqlserver.dll
-++Microsoft.Identity.Client.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.identity.client.dll
-++Microsoft.IdentityModel.JsonWebTokens.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.identitymodel.jsonwebtokens.dll
-++System.IdentityModel.Tokens.Jwt.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\system.identitymodel.tokens.jwt.dll
-++Microsoft.IdentityModel.Logging.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.identitymodel.logging.dll
-++Microsoft.IdentityModel.Protocols.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.identitymodel.protocols.dll
-++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.identitymodel.protocols.openidconnect.dll
-++Microsoft.IdentityModel.Tokens.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.identitymodel.tokens.dll
-++Microsoft.EntityFrameworkCore.Tools (6.0.1)
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:>2166
-++Microsoft.EntityFrameworkCore.Design.props
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\.nuget\packages\microsoft.entityframeworkcore.design\6.0.1\build\net6.0\microsoft.entityframeworkcore.design.props
-++Microsoft.EntityFrameworkCore.Design.dll
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\bin\debug\net6.0\microsoft.entityframeworkcore.design.dll
-++Migrations
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\migrations\
-++20220106014957_InitialMigration.cs
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\migrations\20220106014957_initialmigration.cs
-++20220106014957_InitialMigration.Designer.cs
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\migrations\20220106014957_initialmigration.designer.cs
-++DataContextModelSnapshot.cs
-i:{b52f8fb8-0a41-4b34-94cc-d9a13dbb69ae}:c:\users\alparslan\source\repos\mns-reviews\migrations\datacontextmodelsnapshot.cs

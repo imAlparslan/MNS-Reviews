@@ -4,7 +4,7 @@
 
 
 
-    <form asp-controller="Home" asp-action="Index" method="POST">
+    <form asp-action="Index">
         <div class="form-row">
         <label for="email">Email</label>
         <input name="email" id="email" type="email" required>
@@ -15,7 +15,7 @@
             <input name="password" id="password" type="password" required>
         </div>
         <div class="form-row">
-            <button>Login</button>
+            <button type="submit">Login</button>
         </div>
         <div class="form-row">
             
