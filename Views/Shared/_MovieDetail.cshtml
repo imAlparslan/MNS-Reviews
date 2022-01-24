@@ -1,0 +1,52 @@
+﻿
+
+
+<div class="post-detail">
+
+    <figure class="post-detail-pic">
+        <img src="~/images/matrix4.jpg" asp-append-version="true" alt="Matrix-Poster">
+    </figure>
+
+    <div class="post-detail-header">
+        <h1>
+            @Model.title
+        </h1>
+    </div>
+
+    <div class="post-detail-info">
+
+        <div class="post-detail-info-row">
+            <span class="row-header">Director: @Model.director</span>
+        </div>
+
+        <div class="post-detail-info-row">
+            <span class="row-header">Scenarist: @Model.scenarist</span>
+        </div>
+        <div class="post-detail-info-row">
+            <span class="row-header">Actors: @Model.actors</span>
+
+        </div>
+        <div class="post-detail-info-row">
+            <span class="row-header">Duration: </span>
+            <span class="row-info"> @Model.duration</span>
+        </div>
+        
+        <div class="post-detail-info-row">
+            <span class="row-header">Realese Date: </span>
+            <span class="row-info"> @Model.releaseDate</span>
+        </div>
+
+
+    </div>
+
+
+
+    <p class="post-detail-text">
+        @Model.text
+        @Model.text
+        @Model.text
+        @Model.text
+    </p>
+
+
+</div>

@@ -1,0 +1,7 @@
+﻿@model MNS_Reviews.Models.Review
+@{
+    ViewData["Title"] = @Model.title;
+
+}
+
+@Html.Partial("_ReviewDetail", @Model)

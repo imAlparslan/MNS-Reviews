@@ -1,0 +1,7 @@
+C:\Users\Alparslan\source\repos\MNS-Reviews\obj\Release\net6.0\PubTmp\Out\MNS-Reviews.exe
+C:\Users\Alparslan\source\repos\MNS-Reviews\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Alparslan\source\repos\MNS-Reviews\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Alparslan\source\repos\MNS-Reviews\obj\Release\net6.0\PubTmp\Out\MNS-Reviews.dll
+C:\Users\Alparslan\source\repos\MNS-Reviews\obj\Release\net6.0\PubTmp\Out\MNS-Reviews.deps.json
+C:\Users\Alparslan\source\repos\MNS-Reviews\obj\Release\net6.0\PubTmp\Out\MNS-Reviews.runtimeconfig.json
+C:\Users\Alparslan\source\repos\MNS-Reviews\obj\Release\net6.0\PubTmp\Out\MNS-Reviews.pdb

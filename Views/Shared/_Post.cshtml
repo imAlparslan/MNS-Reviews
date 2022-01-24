@@ -1,0 +1,50 @@
+﻿@using MNS_Reviews.Models
+
+@{
+    ViewData["Title"] = "Posts";
+
+}
+
+
+
+@foreach(Post post in @Model)
+{
+        string url = "/Home/Index";
+
+      if (@post.GetType().ToString().Equals("MNS_Reviews.Models.Movie"))
+        {
+             url = "/Movie/Detail/"+post.PostId;
+        }else if(@post.GetType().ToString().Equals("MNS_Reviews.Models.Serie"))
+        {
+            url = "/Serie/Detail/"+post.PostId;
+        }
+        else if(@post.GetType().ToString().Equals("MNS_Reviews.Models.Trailer"))
+        {
+            url = "/Trailer/Detail/"+post.PostId;
+        }else if(@post.GetType().ToString().Equals("MNS_Reviews.Models.Review"))
+        {
+            url = "/Review/Detail/"+post.PostId;
+        }
+
+
+
+    <div class="post-cont" onclick="location.href='@url';">    
+        <div class="post-pic-cont">
+           <figure> 
+                <img src="~/images/matrix4.jpg" asp-append-version="true" alt="Matrix-Poster">
+           </figure>
+        </div>
+
+        <div class="post-cont-header">
+            <h1>@post.title @post.PostId</h1>
+        </div>
+
+        <div class="post-cont-text">
+            <p>@post.text</p>
+        </div>
+
+         </div>
+
+
+
+ }

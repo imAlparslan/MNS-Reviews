@@ -1,0 +1,68 @@
+﻿@model MNS_Reviews.Models.Serie
+
+@{
+    ViewData["Title"] = "Create Serie";
+}
+
+<div class="post-create-header">
+    <h1>Create Serie</h1>
+</div>
+<hr />
+
+<form asp-action="Create" id="post-create-form">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-row" id="post-create-form-row">
+        <label asp-for="director" class="control-label">Director(s)</label>
+        <input asp-for="director" class="form-control" />
+        <span asp-validation-for="director" class="text-danger"></span>
+    </div>
+    <div class="form-row" id="post-create-form-row">
+        <label asp-for="scenarist" class="control-label">Scenarist(s)</label>
+        <input asp-for="scenarist" class="form-control" />
+        <span asp-validation-for="scenarist" class="text-danger"></span>
+    </div>
+    <div class="form-row" id="post-create-form-row">
+        <label asp-for="actors" class="control-label">Actor</label>
+        <input asp-for="actors" class="form-control" />
+        <span asp-validation-for="actors" class="text-danger"></span>
+    </div>
+    <div class="form-row" id="post-create-form-row">
+        <label asp-for="title" class="control-label">Title</label>
+                <textarea asp-for="title" 
+                class="form-control" 
+                rows="5" cols="90"
+                maxlength="210" minlength="5"> </textarea>
+                <span asp-validation-for="title" class="text-danger"></span>
+    </div>
+    <div class="form-row" id="post-create-form-row">
+        <label asp-for="text" class="control-label">Text</label>
+                <textarea asp-for="text" 
+                class="form-control" 
+                rows="10" cols="90"
+                maxlength="8500" minlength="550"> </textarea>
+                <span asp-validation-for="text" class="text-danger"></span>
+    </div>
+
+    <div class="form-row" id="post-create-form-row">
+        <label asp-for="season" class="control-label"></label>
+        <input asp-for="season" class="form-control" />
+        <span asp-validation-for="season" class="text-danger"></span>
+    </div>
+    <div class="form-row" id="post-create-form-row">
+        <label asp-for="relaseDate" class="control-label"></label>
+        <input asp-for="relaseDate" class="form-control" />
+        <span asp-validation-for="relaseDate" class="text-danger"></span>
+    </div>
+
+
+    <div class="form-row" id="post-create-form-row">
+        <label asp-for="imgUrl" class="control-label"></label>
+        <input asp-for="imgUrl" class="form-control" />
+        <span asp-validation-for="imgUrl" class="text-danger"></span>
+    </div>
+    <div class="post-create-form-row">
+        <button> create </button>
+    </div>
+</form>
+
+

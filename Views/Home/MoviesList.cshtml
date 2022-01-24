@@ -1,0 +1,14 @@
+﻿@using MNS_Reviews.Models
+@model IEnumerable<Movie>
+
+@{
+    ViewData["Title"] = "Movies";
+   
+}
+
+    
+<div class="text-center">
+
+@Html.Partial("_Post",@Model)
+
+</div>

@@ -1,0 +1,29 @@
+﻿@using MNS_Reviews.Models
+@model IEnumerable<Deneme>
+
+@{
+    ViewData["Title"] = "Deneme";
+}
+
+
+
+    <form asp-action="AddDeneme" method="POST">
+        <div class="form-row">
+        <label for="name">name</label>
+        <input name="name" id="name" type="text" required>
+        </div>
+
+        <div class="form-row">
+            <label for="age">age</label>
+            <input name="age" id="age" type="number" required>
+        </div>
+        <div class="form-row">
+            <button>Send</button>
+        </div>
+        <div class="form-row">
+            
+            <a id="forget-pass" asp-controller="Login" asp-action="ForgotPassword">Forget your password?</a>
+
+        </div>
+
+    </form>
