@@ -5,8 +5,6 @@ using System.Linq;
 namespace MNS_Reviews.Controllers
 
 
-  
-
 {
 
     public class DenemeController : Controller
@@ -18,24 +16,28 @@ namespace MNS_Reviews.Controllers
         }
 
 
-        
+        [Authorize]
         public IActionResult Index()
         {
+            var claims = HttpContext.User.Claims;
             return View();
         }
 
-
-        [Authorize(Roles = "admin")]
+     
+        [Authorize(Policy = "AdminPolicy")]
         [HttpGet]
         public IActionResult AddDeneme()
         {
-            
+           
+
             return View();
         }
 
+        [Authorize(Policy = "AdminPolicy")]
         [HttpPost]
         public IActionResult AddDeneme(Deneme deneme)
         {
+            
             if (!ModelState.IsValid)
             {
                 return View("AddDeneme");

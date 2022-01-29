@@ -4,6 +4,7 @@ using MNS_Reviews.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,10 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace MNS_Reviews.Migrations
 {
     [DbContext(typeof(DataContext))]
-    partial class DataContextModelSnapshot : ModelSnapshot
+    [Migration("20220126155645_mg6")]
+    partial class mg6
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -30,21 +32,16 @@ namespace MNS_Reviews.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
+                    b.Property<int>("CommentOwnerId")
+                        .HasColumnType("int");
+
                     b.Property<string>("CommentText")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("OwnerId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("PostId")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
 
-                    b.HasIndex("OwnerId");
-
-                    b.HasIndex("PostId");
+                    b.HasIndex("CommentOwnerId");
 
                     b.ToTable("Comments", (string)null);
                 });
@@ -217,19 +214,11 @@ namespace MNS_Reviews.Migrations
                 {
                     b.HasOne("MNS_Reviews.Models.User", "CommentOwner")
                         .WithMany()
-                        .HasForeignKey("OwnerId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("MNS_Reviews.Models.Post", "Post")
-                        .WithMany()
-                        .HasForeignKey("PostId")
+                        .HasForeignKey("CommentOwnerId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("CommentOwner");
-
-                    b.Navigation("Post");
                 });
 
             modelBuilder.Entity("MNS_Reviews.Models.Movie", b =>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gn+s1pCpijotvkk1YuFWEJlV2H0hFHnaUdp7SkQezfE=",
+  "Hash": "Rkv8+p+HK2kEtxqcbWalmsgidV53TIoZj0WV/GUd2n8=",
   "Source": "MNS-Reviews",
   "BasePath": "_content/MNS-Reviews",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MNS-Reviews.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\css\\admin.css",
+      "SourceId": "MNS-Reviews",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\",
+      "BasePath": "_content/MNS-Reviews",
+      "RelativePath": "css/admin.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\admin.css"
     },
     {
       "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\css\\form.css",

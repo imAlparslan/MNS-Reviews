@@ -1,35 +1,61 @@
 ﻿@model MNS_Reviews.Models.Trailer;
+@using MNS_Reviews.Models
 
 @{
     ViewData["Title"] = @Model.title;
+
 }
 
-<div class="post-detail" id="trailer"> 
-
-    <div class="post-detail-header" id="trailer-header"> 
+<div class="post-detail" id="trailer">
+    <p> @ViewBag.Comments.Count </p>
+    <div class="post-detail-header" id="trailer-header">
         <h1>@Model.title  </h1>
     </div>
 
-<div class="trailer-cont">
-<iframe class="trailer-frame" 
-src="@Model.link" 
-title="YouTube video player"
-allow="accelerometer; autoplay; clipboard-write; 
-encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+    <div class="trailer-cont">
+        <iframe class="trailer-frame"
+                src="@Model.link"
+                title="YouTube video player"
+                allow="accelerometer; autoplay; clipboard-write;
+encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
 
- </div>
+    </div>
 
+    <div class="post-detail-text">
+        <p>
+            @Model.text
+        </p>
 
-
- <div class="post-detail-text">
-     <p>
-         @Model.text
-     </p>
-
- </div>
-   </div>
+    </div>
+</div>
 
 
-  @Html.Partial("_Comment")
-  @Html.Partial("_Comment")
+
+
+<h4>Comment</h4>
+
+<form asp-controller="Comment" asp-action="Create">
+    <textarea id="CommentText" name="CommentText">
+
+      </textarea>
+    <div class="form-row" id="post-create-form-row">
+        <button> Send </button>
+    </div>
+    <input type="hidden" id="CommentOwner" name="CommentOwner" value="@User" />
+    <input type="hidden" id="PostId" name="PostId" value="@Model.PostId" /
+
+</form>
+
+
+@foreach(Comment comment in ViewBag.Comments)
+{
+    
+
+@await Html.PartialAsync("_Comment", comment);
+}
+
+
+
+
+

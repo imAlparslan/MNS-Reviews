@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Mvc;
 using MNS_Reviews.Models;
 
@@ -31,23 +32,32 @@ namespace MNS_Reviews.Controllers
             var info = users.FirstOrDefault(x => x.Email == user.Email && x.Password == user.Password);
             if(info != null)
             {
-                FormsAuthentication
+
                 var claims = new List<Claim>
                 {
-                    new Claim(ClaimTypes.Email, user.Email),
+                    new Claim("UserType", info.UserType),
+                    new Claim("name", info.Name),
+                    new Claim("userId", info.Id.ToString()),
                 };
-                var userIdentity = new ClaimsIdentity(claims, "Login");
+                var userIdentity = new ClaimsIdentity(claims, info.UserType);
                 
                 ClaimsPrincipal principal = new ClaimsPrincipal(userIdentity);
 
                 await HttpContext.SignInAsync(principal);
 
-                return RedirectToAction("AddDeneme", "Deneme");
+                return RedirectToAction("Index", "Home");
             }
 
 
 
             return View();
+        }
+
+
+        public async Task<IActionResult> Logout()
+        {
+            await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+            return RedirectToAction("Index", "Home");
         }
 
         public IActionResult ForgotPassword()

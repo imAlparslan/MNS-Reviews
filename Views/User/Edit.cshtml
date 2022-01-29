@@ -1,0 +1,17 @@
+﻿@model MNS_Reviews.Models.User
+@{
+}
+
+<h1> Edit User </h1>
+
+
+<form asp-action="Edit" method="post">
+
+        <div class="form-row">
+            <label for="userType">Enter UserType</label>
+            <input name="userType" id="userType" type="userType" value="@Model.UserType" required>
+        </div>
+    
+        <button> Save </button>
+
+</form>

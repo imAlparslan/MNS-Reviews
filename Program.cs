@@ -1,6 +1,7 @@
 using MNS_Reviews.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +16,13 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
     {
         x.LoginPath = "/login/index/";
     });
+
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("AdminPolicy", policy => policy.RequireClaim("UserType", "Admin"));
+    options.AddPolicy("EditorPolicy", policy => policy.RequireClaim("UserType", "Editor"));
+});
+
 
 
 

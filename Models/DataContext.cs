@@ -3,7 +3,7 @@
 namespace MNS_Reviews.Models
 {
     public class DataContext : DbContext
-    { 
+    {
         public DataContext(DbContextOptions<DataContext> option) : base(option) { }
         /*
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -21,15 +21,18 @@ namespace MNS_Reviews.Models
 
         public DbSet<User> users { get; set; }
 
+        public DbSet<Comment> comments { get; set; }
 
-        
+
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Movie>().ToTable("Movie");
             modelBuilder.Entity<Review>().ToTable("Review");
             modelBuilder.Entity<Serie>().ToTable("Serie");
             modelBuilder.Entity<Trailer>().ToTable("Trailer");
+            modelBuilder.Entity<Comment>().ToTable("Comments");
         }
-        
+
     }
 }

@@ -1,3 +1,35 @@
 ﻿@{
-    Layout = "_MyLayout";
+
+
+    if (User.Identity.IsAuthenticated)
+    {
+        
+
+        if (User.Identity.AuthenticationType.Equals("Admin"))
+        {
+          
+            Layout = "_AdminLayout";
+
+        }
+        else if (@User.Identity.AuthenticationType.Equals("Editor"))
+        {
+
+            Layout = "_EditorLayout";
+
+        }
+        else if (@User.Identity.AuthenticationType.Equals("User"))
+        {
+             Layout = "_UserLayout";
+        }
+
+
+
+
+
+    }
+    else
+    {
+        Layout = "_MyLayout";
+    }
 }
+

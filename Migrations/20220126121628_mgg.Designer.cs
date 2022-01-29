@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace MNS_Reviews.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20220124161222_mg1")]
-    partial class mg1
+    [Migration("20220126121628_mgg")]
+    partial class mgg
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -61,8 +61,7 @@ namespace MNS_Reviews.Migrations
 
                     b.Property<string>("text")
                         .IsRequired()
-                        .HasMaxLength(1000)
-                        .HasColumnType("nvarchar(1000)");
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("title")
                         .IsRequired()
@@ -93,6 +92,10 @@ namespace MNS_Reviews.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Password")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("UserType")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 

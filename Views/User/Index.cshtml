@@ -1,0 +1,28 @@
+﻿@using MNS_Reviews.Models
+@model IEnumerable<User>
+
+@{
+    ViewData["Title"] = "User List";
+
+}
+
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Type</th>
+    </tr>
+    @foreach (User user in @Model)
+    {
+
+        <tr>
+            <td>@user.Name</td>
+            <td>@user.Email</td>
+            <td>@user.UserType</td>
+            <td> <a href="/User/Edit/@user.Id">Edit User </a> </td>
+            <td> <a href="/User/Delete/@user.Id">Delete User </a> </td>
+            
+        </tr>
+    }
+</table>
