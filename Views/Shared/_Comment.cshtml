@@ -1,38 +1,26 @@
-﻿
+﻿@model MNS_Reviews.Models.Comment
+@using MNS_Reviews.Models
 
 
 
+<div class="comment-cont">
+    @if (User.Identity.IsAuthenticated && User.Identity.AuthenticationType.Equals("Editor"))
+    {
+        <a id="delete" href="/Comment/Delete/@Model.Id">X</a>
 
-
- <div class="comment-cont">
-     <figure class="comment-profile-pic">
+    }
+    <figure class="comment-profile-pic">
         <img src="~/images/matrix4.jpg" asp-append-version="true" alt="Matrix-Poster">
-        <figcaption>User - Namea</figcaption>
-     </figure>
-     <div class="comment-text">  
-     <p>
-        akjsn dhalsdlas kdjalsjdal sdjalsdj alsdjalsd
-        laldj ad jalsdjalsdj  alsdk ja lsdjal s djals djal
-        kaksjdalsjd a ksdjlak sdjlasj dalk djals kdjald
-        akjs ndha  lsdlaskdjalsjdal  sdjalsdj alsdjalsd
-        laldj adjalsdj  al sdjalsd kjalsdjal sdjalsdjal
-        akjsndh alsdlaskd jalsjda ls djalsd  jalsdjalsd
-        laldjadj alsdjalsdja lsdkjal sdjalsdjalsdjal
-        akjsn dhalsdlas kdjalsjdal sdjalsdj alsdjalsd
-        laldj ad jalsdjalsdj  alsdk ja lsdjal s djals djal
-        kaksjdalsjd a ksdjlak sdjlasj dalk djals kdjald
-        akjs ndha  lsdlaskdjalsjdal  sdjalsdj alsdjalsd
-        laldj adjalsdj  al sdjalsd kjalsdjal sdjalsdjal
-        akjsndh alsdlaskd jalsjda ls djalsd  jalsdjalsd
-        laldjadj alsdjalsdja lsdkjal sdjalsdjalsdjal
-        kjsn dhalsdlas 
+        <figcaption> @Model.OwnerName  <figcaption>
+    </figure>
 
 
+    <div class="comment-text">
+        <p>
+            @Model.CommentText
+        </p>
+    </div>
 
-          
-     </p>
-     </div>
- </div>
+</div>
 
 
-  

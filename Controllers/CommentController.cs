@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Http.Extensions;
+using Microsoft.AspNetCore.Mvc;
 using MNS_Reviews.Models;
 using System.Linq;
 
@@ -23,17 +26,35 @@ namespace MNS_Reviews.Controllers
 
 
         } 
-
-
-
-        [HttpPost]
-        public IActionResult Create(Comment comment)
+        [Authorize(Policy ="EditorPolicy")]
+        public IActionResult Delete(Comment comment)
         {
-            context.comments.Add(comment);
+            
+          //s  Comment del = context.comments.Where(x => x.Id == comment).FirstOrDefault();
+            context.comments.Remove(comment);
+            
             context.SaveChanges();
 
             return Ok();
         }
+
+        [Authorize]
+        [HttpPost]
+        public IActionResult Create(Comment comment)
+        {
+            context.comments.Add(comment);
+            
+            context.SaveChanges();
+
+            return RedirectToAction("index","home");
+        }
+
+        public User findUser(int id)
+        {
+           return context.users.FirstOrDefault(x => x.Id == id);
+        }
+
+
 
      }
 }

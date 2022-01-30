@@ -36,7 +36,7 @@ namespace MNS_Reviews.Controllers
                 var claims = new List<Claim>
                 {
                     new Claim("UserType", info.UserType),
-                    new Claim("name", info.Name),
+                    new Claim(ClaimTypes.Name, info.Name),
                     new Claim("userId", info.Id.ToString()),
                 };
                 var userIdentity = new ClaimsIdentity(claims, info.UserType);

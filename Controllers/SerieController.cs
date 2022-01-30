@@ -30,6 +30,8 @@ namespace MNS_Reviews.Controllers
         public IActionResult Detail(int Id)
         {
             Serie serie = context.series.First(i => i.PostId == Id);
+            List<Comment> comments = context.comments.Where(x => x.Post.PostId == Id).ToList();
+            ViewBag.Comments = comments;
             return View("SerieDetail", serie);
         }
         

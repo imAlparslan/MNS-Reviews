@@ -28,6 +28,8 @@ namespace MNS_Reviews.Controllers
         public IActionResult Detail(int Id)
         {
             Movie movie = context.movies.First(i => i.PostId == Id);
+            List<Comment> comments = context.comments.Where(x => x.Post.PostId == Id).ToList();
+            ViewBag.Comments = comments;
             return View("MovieDetail", movie);
         }
         
