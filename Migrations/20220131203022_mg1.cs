@@ -32,6 +32,7 @@ namespace MNS_Reviews.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     title = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     text = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    imgUrl = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     CreatedTimestamp = table.Column<DateTime>(type: "datetime2", nullable: false)
                 },
                 constraints: table =>
@@ -49,6 +50,8 @@ namespace MNS_Reviews.Migrations
                     Email = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Password = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     UserType = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    IsActive = table.Column<bool>(type: "bit", nullable: false),
+                    imgUrl = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     CreatedDate = table.Column<DateTime>(type: "datetime2", nullable: false)
                 },
                 constraints: table =>
@@ -65,8 +68,7 @@ namespace MNS_Reviews.Migrations
                     scenarist = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     actors = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     duration = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    releaseDate = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    imgUrl = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    releaseDate = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -82,8 +84,7 @@ namespace MNS_Reviews.Migrations
                 name: "Review",
                 columns: table => new
                 {
-                    PostId = table.Column<int>(type: "int", nullable: false),
-                    imgUrl = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    PostId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -104,8 +105,7 @@ namespace MNS_Reviews.Migrations
                     scenarist = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     actors = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     season = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    relaseDate = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    imgUrl = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    relaseDate = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -133,10 +133,51 @@ namespace MNS_Reviews.Migrations
                         principalTable: "posts",
                         principalColumn: "PostId");
                 });
+
+            migrationBuilder.CreateTable(
+                name: "Comments",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    PostId = table.Column<int>(type: "int", nullable: false),
+                    OwnerId = table.Column<int>(type: "int", nullable: false),
+                    OwnerName = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    CommentText = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Comments", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_Comments_posts_PostId",
+                        column: x => x.PostId,
+                        principalTable: "posts",
+                        principalColumn: "PostId",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_Comments_users_OwnerId",
+                        column: x => x.OwnerId,
+                        principalTable: "users",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Comments_OwnerId",
+                table: "Comments",
+                column: "OwnerId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Comments_PostId",
+                table: "Comments",
+                column: "PostId");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
         {
+            migrationBuilder.DropTable(
+                name: "Comments");
+
             migrationBuilder.DropTable(
                 name: "Deneme");
 

@@ -23,7 +23,8 @@
         <button class="comment-create-button"> Send </button>
   
     <input type="hidden" id="CommentOwner" name="CommentOwner" value="@User" /> 
-        <input type="hidden" id="OwnerName" name="OwnerName" value="@User.Claims.Where(c => c.Type == ClaimTypes.Name ).Select(c => c.Value).SingleOrDefault()" />
+        <input type="hidden" id="OwnerId" name="OwnerId" value="@User.Claims.Where(c => c.Type == "userId" ).Select(c => c.Value).SingleOrDefault()" />     
+    <input type="hidden" id="OwnerName" name="OwnerName" value="@User.Claims.Where(c => c.Type == ClaimTypes.Name ).Select(c => c.Value).SingleOrDefault()" />
     <input type="hidden" id="PostId" name="PostId" value="@Model.PostId" />
 
 

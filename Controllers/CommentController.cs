@@ -42,6 +42,9 @@ namespace MNS_Reviews.Controllers
         [HttpPost]
         public IActionResult Create(Comment comment)
         {
+            User user = context.users.FirstOrDefault( u => u.Id == comment.OwnerId );
+            comment.CommentOwner = user;
+            comment.OwnerImgUrl = user.imgUrl;
             context.comments.Add(comment);
             
             context.SaveChanges();

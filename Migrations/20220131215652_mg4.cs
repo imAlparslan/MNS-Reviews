@@ -4,7 +4,7 @@
 
 namespace MNS_Reviews.Migrations
 {
-    public partial class mgw : Migration
+    public partial class mg4 : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

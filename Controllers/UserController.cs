@@ -20,9 +20,24 @@ namespace MNS_Reviews.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create(User user)
+        public IActionResult Create(UserCreate u)
         {
+            User user = new User();
             user.UserType = "User";
+            user.Name = u.Name;
+            user.Email = u.Email;
+            user.Password = u.Password;
+            user.IsActive = true;
+
+            var extension = Path.GetExtension(u.imgUrl.FileName);
+            var newImageName = Guid.NewGuid() + extension;
+            var location = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images/", newImageName);
+            var stream = new FileStream(location, FileMode.Create);
+           
+            u.imgUrl.CopyTo(stream);
+            user.imgUrl = "~/images/" + newImageName;
+
+
             context.users.Add(user);
             context.SaveChanges();
             return RedirectToAction("Index", "Home");

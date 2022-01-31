@@ -25,8 +25,24 @@ namespace MNS_Reviews.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Create(Review review)
+        public IActionResult Create(ReviewCreate p)
         {
+            Review review = new Review();
+
+            var extension = Path.GetExtension(p.imgUrl.FileName);
+            var newImageName = Guid.NewGuid() + extension;
+            var location = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images/", newImageName);
+            var stream = new FileStream(location, FileMode.Create);
+            p.imgUrl.CopyTo(stream);
+            review.imgUrl = "~/images/" + newImageName;
+            review.CreatedTimestamp = DateTime.Now;
+            review.text = p.text;
+            review.title = p.title;
+
+
+
+
+
             context.reviews.Add(review);
             context.SaveChanges();
             return View();

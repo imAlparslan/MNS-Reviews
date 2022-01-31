@@ -4,12 +4,12 @@
 
 namespace MNS_Reviews.Migrations
 {
-    public partial class mgu : Migration
+    public partial class mg3 : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.AddColumn<string>(
-                name: "OwnerName",
+                name: "OwnerImgUrl",
                 table: "Comments",
                 type: "nvarchar(max)",
                 nullable: false,
@@ -19,7 +19,7 @@ namespace MNS_Reviews.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropColumn(
-                name: "OwnerName",
+                name: "OwnerImgUrl",
                 table: "Comments");
         }
     }

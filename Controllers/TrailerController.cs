@@ -26,7 +26,8 @@ namespace MNS_Reviews.Controllers
 
         [HttpPost]
         public IActionResult Create(Trailer trailer)
-        {   
+        {
+            trailer.imgUrl = "https://img.youtube.com/vi/"+trailer.imgUrl+"/0.jpg";
             context.trailers.Add(trailer);
             context.SaveChanges();
             return View();

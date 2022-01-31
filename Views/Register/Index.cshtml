@@ -1,4 +1,5 @@
-﻿@{
+﻿@model MNS_Reviews.Models.UserCreate
+@{
     ViewData["Title"] = "Register";
 }
 
@@ -17,7 +18,7 @@
 <body>
     
 
-    <form asp-controller="User" asp-action="Create" method="POST">
+    <form asp-controller="User" asp-action="Create" method="POST" enctype="multipart/form-data">
 
         <div class="form-row">
             <label for="name">Enter Your Nickname</label>
@@ -28,6 +29,12 @@
             <label for="email">Enter Your Email</label>
             <input name="email" id="email" type="email" required>
         </div>
+
+            <div class="form-row">
+                <label asp-for="imgUrl" class="control-label">Profile Photo</label>
+                <input asp-for="imgUrl" class="form-control" required/>
+                <span asp-validation-for="imgUrl" class="text-danger"></span>
+            </div>
 
         <div class="form-row">
             <label for="password">Enter Your Password</label>

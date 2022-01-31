@@ -8,7 +8,7 @@
 }
 
 <div class="post-detail" id="trailer">
-   
+
     <div class="post-detail-header" id="trailer-header">
         <h1>@Model.title  </h1>
     </div>
@@ -40,22 +40,24 @@ encrypted-media; gyroscope; picture-in-picture"
 
 
 
-<form asp-controller="Comment" asp-action="Create" class="comment-form">
-     <textarea id="CommentText" name="CommentText"  rows="6" cols="110" maxlength="670"></textarea>
-    
+    <form asp-controller="Comment" asp-action="Create" class="comment-form">
+        <textarea id="CommentText" name="CommentText" rows="6" cols="110" maxlength="670"></textarea>
+
         <button class="comment-create-button"> Send </button>
-  
-    <input type="hidden" id="CommentOwner" name="CommentOwner" value="@User" /> 
+
+        <input type="hidden" id="CommentOwner" name="CommentOwner" value="@User" />
+        <input type="hidden" id="OwnerId" name="OwnerId" value="@User.Claims.Where(c => c.Type == "userId" ).Select(c => c.Value).SingleOrDefault()" />
         <input type="hidden" id="OwnerName" name="OwnerName" value="@User.Claims.Where(c => c.Type == ClaimTypes.Name ).Select(c => c.Value).SingleOrDefault()" />
-    <input type="hidden" id="PostId" name="PostId" value="@Model.PostId" />
+        <input type="hidden" id="PostId" name="PostId" value="@Model.PostId" />
 
 
-</form>
+    </form>
 </div>
 
-@foreach(Comment comment in ViewBag.Comments)
-{  
-@await Html.PartialAsync("_Comment", comment);
+@foreach (Comment comment in ViewBag.Comments)
+{
+    @await Html.PartialAsync("_Comment", comment)
+    ;
 }
 
 

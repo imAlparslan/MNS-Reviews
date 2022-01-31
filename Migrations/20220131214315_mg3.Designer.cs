@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace MNS_Reviews.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20220126121628_mgg")]
-    partial class mgg
+    [Migration("20220131214315_mg3")]
+    partial class mg3
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -23,6 +23,41 @@ namespace MNS_Reviews.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
+
+            modelBuilder.Entity("MNS_Reviews.Models.Comment", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<string>("CommentText")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("OwnerId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("OwnerImgUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("OwnerName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("PostId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("OwnerId");
+
+                    b.HasIndex("PostId");
+
+                    b.ToTable("Comments", (string)null);
+                });
 
             modelBuilder.Entity("MNS_Reviews.Models.Deneme", b =>
                 {
@@ -59,6 +94,9 @@ namespace MNS_Reviews.Migrations
                     b.Property<DateTime>("CreatedTimestamp")
                         .HasColumnType("datetime2");
 
+                    b.Property<string>("imgUrl")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("text")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -87,6 +125,9 @@ namespace MNS_Reviews.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<bool>("IsActive")
+                        .HasColumnType("bit");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -96,6 +137,10 @@ namespace MNS_Reviews.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("UserType")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("imgUrl")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -120,10 +165,6 @@ namespace MNS_Reviews.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("imgUrl")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("releaseDate")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -139,10 +180,6 @@ namespace MNS_Reviews.Migrations
                 {
                     b.HasBaseType("MNS_Reviews.Models.Post");
 
-                    b.Property<string>("imgUrl")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.ToTable("Review", (string)null);
                 });
 
@@ -155,10 +192,6 @@ namespace MNS_Reviews.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("director")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("imgUrl")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -186,6 +219,25 @@ namespace MNS_Reviews.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.ToTable("Trailer", (string)null);
+                });
+
+            modelBuilder.Entity("MNS_Reviews.Models.Comment", b =>
+                {
+                    b.HasOne("MNS_Reviews.Models.User", "CommentOwner")
+                        .WithMany()
+                        .HasForeignKey("OwnerId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("MNS_Reviews.Models.Post", "Post")
+                        .WithMany()
+                        .HasForeignKey("PostId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("CommentOwner");
+
+                    b.Navigation("Post");
                 });
 
             modelBuilder.Entity("MNS_Reviews.Models.Movie", b =>

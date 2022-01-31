@@ -1,4 +1,4 @@
-﻿@model MNS_Reviews.Models.Movie
+﻿@model MNS_Reviews.Models.MovieCreate
 
 @{
     ViewData["Title"] = "Create Movie";
@@ -9,7 +9,7 @@
 </div>
 <hr />
 
-        <form asp-action="Create" id="post-create-form">
+        <form asp-action="Create" id="post-create-form" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-row" id="post-create-form-row">
                 <label asp-for="director" class="control-label">Director(s)</label>
@@ -36,11 +36,15 @@
                 <input asp-for="releaseDate" class="form-control" required/>
                 <span asp-validation-for="releaseDate" class="text-danger"></span>
             </div>
+
+
             <div class="form-row" id="post-create-form-row">
                 <label asp-for="imgUrl" class="control-label">Img Path</label>
                 <input asp-for="imgUrl" class="form-control" required/>
                 <span asp-validation-for="imgUrl" class="text-danger"></span>
             </div>
+
+
             <div class="form-row" id="post-create-form-row">
                 <label asp-for="title" class="control-label">Title</label>
                 <textarea asp-for="title" 

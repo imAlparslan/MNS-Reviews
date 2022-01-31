@@ -18,7 +18,7 @@ namespace MNS_Reviews.Models
         public String OwnerName { get; set; }
         public string CommentText { get; set; }
 
-
+        public string OwnerImgUrl { get; set; }
 
 
     }
