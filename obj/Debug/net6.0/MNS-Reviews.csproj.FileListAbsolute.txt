@@ -5,7 +5,6 @@ C:\Users\Alparslan\source\repos\MNS-Reviews\bin\Debug\net6.0\MNS-Reviews.exe
 C:\Users\Alparslan\source\repos\MNS-Reviews\bin\Debug\net6.0\MNS-Reviews.deps.json
 C:\Users\Alparslan\source\repos\MNS-Reviews\bin\Debug\net6.0\MNS-Reviews.runtimeconfig.json
 C:\Users\Alparslan\source\repos\MNS-Reviews\bin\Debug\net6.0\MNS-Reviews.dll
-C:\Users\Alparslan\source\repos\MNS-Reviews\bin\Debug\net6.0\ref\MNS-Reviews.dll
 C:\Users\Alparslan\source\repos\MNS-Reviews\bin\Debug\net6.0\MNS-Reviews.pdb
 C:\Users\Alparslan\source\repos\MNS-Reviews\obj\Debug\net6.0\MNS-Reviews.csproj.AssemblyReference.cache
 C:\Users\Alparslan\source\repos\MNS-Reviews\obj\Debug\net6.0\MNS-Reviews.GeneratedMSBuildEditorConfig.editorconfig
@@ -522,3 +521,4 @@ C:\Users\Alparslan\Desktop\MNS-Reviews\obj\Debug\net6.0\MNS-Reviews.dll
 C:\Users\Alparslan\Desktop\MNS-Reviews\obj\Debug\net6.0\ref\MNS-Reviews.dll
 C:\Users\Alparslan\Desktop\MNS-Reviews\obj\Debug\net6.0\MNS-Reviews.pdb
 C:\Users\Alparslan\Desktop\MNS-Reviews\obj\Debug\net6.0\MNS-Reviews.genruntimeconfig.cache
+C:\Users\Alparslan\source\repos\MNS-Reviews\obj\Debug\net6.0\refint\MNS-Reviews.dll

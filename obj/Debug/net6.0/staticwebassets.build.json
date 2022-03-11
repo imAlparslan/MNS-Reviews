@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FOExngNQVxmzpaZu1+JXpViV6VbyleTJN5iGI7N6/0w=",
+  "Hash": "sjEWvedjNwO7HphBoNG/jy3tGc6zdiK1VxCYwMNaL90=",
   "Source": "MNS-Reviews",
   "BasePath": "_content/MNS-Reviews",
   "Mode": "Default",
@@ -170,6 +170,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\~$5c0932-c2a1-4c2f-824e-9dec01586b34.docx",
+      "SourceId": "MNS-Reviews",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\",
+      "BasePath": "_content/MNS-Reviews",
+      "RelativePath": "images/~$5c0932-c2a1-4c2f-824e-9dec01586b34.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\~$5c0932-c2a1-4c2f-824e-9dec01586b34.docx"
+    },
+    {
       "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\00d7e6b2-9a76-49ef-96b5-91ba933a41b2.jpg",
       "SourceId": "MNS-Reviews",
       "SourceType": "Discovered",
@@ -321,6 +338,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\45a1aaa1-2624-44da-a509-68c42a2d405e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\48cd0348-f73c-419a-9607-a258c38afd27.jpeg",
+      "SourceId": "MNS-Reviews",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\",
+      "BasePath": "_content/MNS-Reviews",
+      "RelativePath": "images/48cd0348-f73c-419a-9607-a258c38afd27.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\48cd0348-f73c-419a-9607-a258c38afd27.jpeg"
     },
     {
       "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\5588e2c3-fcf1-451a-94d2-175750c1a2c9.jpg",
@@ -561,6 +595,23 @@
       "OriginalItemSpec": "wwwroot\\images\\c64bfd31-1ccc-4434-9862-c69955227dc0.png"
     },
     {
+      "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\c95c0932-c2a1-4c2f-824e-9dec01586b34.docx",
+      "SourceId": "MNS-Reviews",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\",
+      "BasePath": "_content/MNS-Reviews",
+      "RelativePath": "images/c95c0932-c2a1-4c2f-824e-9dec01586b34.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\c95c0932-c2a1-4c2f-824e-9dec01586b34.docx"
+    },
+    {
       "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\cd99d7f8-0386-43d3-a07a-3c9d0b89f4eb.png",
       "SourceId": "MNS-Reviews",
       "SourceType": "Discovered",
@@ -593,6 +644,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\d0bc2e04-9217-42df-90d2-1a2b19bafe9c.png"
+    },
+    {
+      "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\d45da890-963d-4204-8687-583f29bc58bc.jpg",
+      "SourceId": "MNS-Reviews",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\",
+      "BasePath": "_content/MNS-Reviews",
+      "RelativePath": "images/d45da890-963d-4204-8687-583f29bc58bc.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\d45da890-963d-4204-8687-583f29bc58bc.jpg"
     },
     {
       "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\f56763db-c941-460e-95af-2a36e78a62b6.png",

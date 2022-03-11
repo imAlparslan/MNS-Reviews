@@ -8,129 +8,153 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MNS_Reviews
 build_property.RootNamespace = MNS_Reviews
-build_property.ProjectDir = C:\Users\Alparslan\Desktop\MNS-Reviews\
+build_property.ProjectDir = C:\Users\Alparslan\source\repos\MNS-Reviews\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Alparslan\Desktop\MNS-Reviews
+build_property.MSBuildProjectDirectory = C:\Users\Alparslan\source\repos\MNS-Reviews
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Deneme/AddDeneme.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Deneme/AddDeneme.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVuZW1lXEFkZERlbmVtZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Deneme/Index.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Deneme/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVuZW1lXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Deneme/Thx.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Deneme/Thx.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVuZW1lXFRoeC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Home/Index.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Home/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Home/MoviesList.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Home/MoviesList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb3ZpZXNMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Home/ReviewsList.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Home/ReviewsList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXZpZXdzTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Home/SeriesList.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Home/SeriesList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJpZXNMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Home/TrailersList.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Home/TrailersList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUcmFpbGVyc0xpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Login/ForgotPassword.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Login/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRm9yZ290UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Login/Index.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Movie/Create.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Movie/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Movie/MovieDetail.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Movie/MovieDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcTW92aWVEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Register/Index.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Register/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Review/Create.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Review/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Review/ReviewDetail.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Review/ReviewDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XFJldmlld0RldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Serie/Create.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Serie/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Serie/SerieDetail.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Serie/SerieDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWVcU2VyaWVEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Shared/Error.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Shared/_Comment.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Shared/_Comment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db21tZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Shared/_MovieDetail.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Shared/_EditorLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FZGl0b3JMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Shared/_MovieDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Nb3ZpZURldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Shared/_MyLayout.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Shared/_MyLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NeUxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Shared/_Post.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Shared/_Post.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qb3N0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Shared/_ReviewDetail.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Shared/_ReviewDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9SZXZpZXdEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Shared/_SerieDetail.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Shared/_SerieDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZXJpZURldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Shared/_UserLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Vc2VyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Trailer/Create.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Trailer/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaWxlclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Trailer/TrailerDetail.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Trailer/TrailerDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaWxlclxUcmFpbGVyRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/_ViewImports.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/_ViewStart.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alparslan/Desktop/MNS-Reviews/Views/Shared/_Layout.cshtml]
+[C:/Users/Alparslan/source/repos/MNS-Reviews/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-n7z2tiel89
