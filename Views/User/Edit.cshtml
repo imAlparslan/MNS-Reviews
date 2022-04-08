@@ -2,14 +2,22 @@
 @{
 }
 
-<h1> Edit User </h1>
+<h1 style="color:white"> Edit User </h1>
 
 
 <form asp-action="Edit" method="post">
 
         <div class="form-row">
-            <label for="userType">Enter UserType</label>
-            <input name="userType" id="userType" type="userType" value="@Model.UserType" required>
+            <label for="userType" class="dropdown">Choose User Type</label>
+
+
+    
+                <select name="userType" class="dropdown" id="DropDownEditUser">
+                <option class="dropDownOptions" value="User">User</option>
+                <option class="dropDownOptions" value="Editor">Editor</option>
+                <option class="dropDownOptions" value="Admin">Admin</option>
+            </select>
+
         </div>
     
         <button> Save </button>

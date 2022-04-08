@@ -40,12 +40,9 @@ namespace MNS_Reviews.Controllers
             review.title = p.title;
 
 
-
-
-
             context.reviews.Add(review);
             context.SaveChanges();
-            return View();
+            return RedirectToAction("Reviews","Home");
         }
 
 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sjEWvedjNwO7HphBoNG/jy3tGc6zdiK1VxCYwMNaL90=",
+  "Hash": "VjuETmWJF4RhFqhbMZ8W9+B1fkeFgOpESr/Idf3qFNU=",
   "Source": "MNS-Reviews",
   "BasePath": "_content/MNS-Reviews",
   "Mode": "Default",
@@ -170,23 +170,6 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\~$5c0932-c2a1-4c2f-824e-9dec01586b34.docx",
-      "SourceId": "MNS-Reviews",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\",
-      "BasePath": "_content/MNS-Reviews",
-      "RelativePath": "images/~$5c0932-c2a1-4c2f-824e-9dec01586b34.docx",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\~$5c0932-c2a1-4c2f-824e-9dec01586b34.docx"
-    },
-    {
       "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\00d7e6b2-9a76-49ef-96b5-91ba933a41b2.jpg",
       "SourceId": "MNS-Reviews",
       "SourceType": "Discovered",
@@ -221,6 +204,23 @@
       "OriginalItemSpec": "wwwroot\\images\\0c6af0b8-f704-4a14-a9d9-84203cbc8b51.jpg"
     },
     {
+      "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\121ebcf8-5542-4313-b48f-73e505a9c325.jpeg",
+      "SourceId": "MNS-Reviews",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\",
+      "BasePath": "_content/MNS-Reviews",
+      "RelativePath": "images/121ebcf8-5542-4313-b48f-73e505a9c325.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\121ebcf8-5542-4313-b48f-73e505a9c325.jpeg"
+    },
+    {
       "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\13fbd431-44f3-48e0-9f77-ef445ddff6a1.png",
       "SourceId": "MNS-Reviews",
       "SourceType": "Discovered",
@@ -238,6 +238,23 @@
       "OriginalItemSpec": "wwwroot\\images\\13fbd431-44f3-48e0-9f77-ef445ddff6a1.png"
     },
     {
+      "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\1796a1e7-34a4-446b-b304-e7fae06e14f0.jpg",
+      "SourceId": "MNS-Reviews",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\",
+      "BasePath": "_content/MNS-Reviews",
+      "RelativePath": "images/1796a1e7-34a4-446b-b304-e7fae06e14f0.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1796a1e7-34a4-446b-b304-e7fae06e14f0.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\1bd65f8c-d5ff-4abb-8066-3f2f5092cd2e.png",
       "SourceId": "MNS-Reviews",
       "SourceType": "Discovered",
@@ -253,6 +270,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\1bd65f8c-d5ff-4abb-8066-3f2f5092cd2e.png"
+    },
+    {
+      "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\24ade156-ea6a-4ab4-95a0-77c6229ab2a1.png",
+      "SourceId": "MNS-Reviews",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\",
+      "BasePath": "_content/MNS-Reviews",
+      "RelativePath": "images/24ade156-ea6a-4ab4-95a0-77c6229ab2a1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\24ade156-ea6a-4ab4-95a0-77c6229ab2a1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\30019f07-80aa-4662-bd2f-94b55c3eaa2b.jpg",
+      "SourceId": "MNS-Reviews",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\",
+      "BasePath": "_content/MNS-Reviews",
+      "RelativePath": "images/30019f07-80aa-4662-bd2f-94b55c3eaa2b.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\30019f07-80aa-4662-bd2f-94b55c3eaa2b.jpg"
     },
     {
       "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\30b9988d-effc-4bde-b768-bad573f8ac05.jpg",
@@ -304,6 +355,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\33dbd407-e344-412c-a6d0-b8fbb0365811.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\434f0c84-7911-40e9-a236-dbf7e40650c5.png",
+      "SourceId": "MNS-Reviews",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\",
+      "BasePath": "_content/MNS-Reviews",
+      "RelativePath": "images/434f0c84-7911-40e9-a236-dbf7e40650c5.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\434f0c84-7911-40e9-a236-dbf7e40650c5.png"
     },
     {
       "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\45180730-dd28-4e2e-bfe2-dc2da5cbf87f.jpg",
@@ -423,6 +491,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\6c9b0a12-3384-4c51-b71d-7732fb55d1bc.png"
+    },
+    {
+      "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\6cb27f83-1631-4421-af57-430e33eccb4d.jpeg",
+      "SourceId": "MNS-Reviews",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\",
+      "BasePath": "_content/MNS-Reviews",
+      "RelativePath": "images/6cb27f83-1631-4421-af57-430e33eccb4d.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6cb27f83-1631-4421-af57-430e33eccb4d.jpeg"
     },
     {
       "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\7f6a4d6a-2660-4177-916c-f63688e5f5b9.jfif",
@@ -663,6 +748,23 @@
       "OriginalItemSpec": "wwwroot\\images\\d45da890-963d-4204-8687-583f29bc58bc.jpg"
     },
     {
+      "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\dd60923a-09b0-4d8b-b0e3-1955f518f2f3.jpg",
+      "SourceId": "MNS-Reviews",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\",
+      "BasePath": "_content/MNS-Reviews",
+      "RelativePath": "images/dd60923a-09b0-4d8b-b0e3-1955f518f2f3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dd60923a-09b0-4d8b-b0e3-1955f518f2f3.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\f56763db-c941-460e-95af-2a36e78a62b6.png",
       "SourceId": "MNS-Reviews",
       "SourceType": "Discovered",
@@ -712,6 +814,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\fe0b4484-d91a-45a0-85c7-7f23c992294f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\fedd3f2e-3f94-472d-bbc1-aaf20552c7c8.webp",
+      "SourceId": "MNS-Reviews",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\",
+      "BasePath": "_content/MNS-Reviews",
+      "RelativePath": "images/fedd3f2e-3f94-472d-bbc1-aaf20552c7c8.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fedd3f2e-3f94-472d-bbc1-aaf20552c7c8.webp"
     },
     {
       "Identity": "C:\\Users\\Alparslan\\source\\repos\\MNS-Reviews\\wwwroot\\images\\matrix4.jpg",

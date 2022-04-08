@@ -30,7 +30,7 @@ namespace MNS_Reviews.Controllers
             trailer.imgUrl = "https://img.youtube.com/vi/"+trailer.imgUrl+"/0.jpg";
             context.trailers.Add(trailer);
             context.SaveChanges();
-            return View();
+            return RedirectToAction("Trailers", "Home");
         }
     
     }

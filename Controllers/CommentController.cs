@@ -29,13 +29,13 @@ namespace MNS_Reviews.Controllers
         [Authorize(Policy ="EditorPolicy")]
         public IActionResult Delete(Comment comment)
         {
-            
           //s  Comment del = context.comments.Where(x => x.Id == comment).FirstOrDefault();
             context.comments.Remove(comment);
             
             context.SaveChanges();
-
-            return Ok();
+           
+            return RedirectToAction("Index","Home");
+            
         }
 
         [Authorize]

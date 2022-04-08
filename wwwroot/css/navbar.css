@@ -3,6 +3,15 @@
     font-family: Arial, Helvetica, sans-serif;
     
 }
+.dropDownOptions{
+    font-size: 25px;
+}
+#DropDownEditUser{
+    width: 250px;
+    height: 30px;
+    margin-right: auto;
+    font-size: 1.2em;
+}
 
 .dropbtn {
 
