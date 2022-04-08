@@ -11,7 +11,6 @@ namespace MNS_Reviews.Models
         public string actors { get; set; }
         public string duration { get; set; }
         public string releaseDate { get; set; }
-        public string imgUrl { get; set; }
 
 
     }

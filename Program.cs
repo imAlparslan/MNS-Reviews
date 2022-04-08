@@ -1,5 +1,8 @@
 using MNS_Reviews.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.Extensions.DependencyInjection;
+
 var builder = WebApplication.CreateBuilder(args);
 
 
@@ -8,7 +11,21 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddAuthentication();
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie
+    (x =>
+    {
+        x.LoginPath = "/login/index/";
+        x.AccessDeniedPath = ("/home/AccessDenied");
+        
+    });
+
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("AdminPolicy", policy => policy.RequireClaim("UserType", "Admin"));
+    options.AddPolicy("EditorPolicy", policy => policy.RequireClaim("UserType", "Editor"));
+});
+
+
 
 
 builder.Services.AddDbContext<DataContext>(options =>

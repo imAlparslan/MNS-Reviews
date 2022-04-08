@@ -71,3 +71,26 @@ figure {
     overflow: hidden;
     color: #CED4DA;
 }
+
+.comment-form{
+    padding:0;
+    margin:0;
+    
+
+}
+
+    .comment-form textarea {
+        padding: 16px;
+        font-size: 1em;
+        resize: none;
+     
+    }
+   
+
+   
+
+    .comment-create-button{
+        margin-left:375px;
+        margin-right:auto;
+    }
+

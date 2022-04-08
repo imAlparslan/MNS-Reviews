@@ -14,6 +14,8 @@ namespace MNS_Reviews.Controllers
         {
 
             Trailer trailer = context.trailers.First(i => i.PostId == Id);
+            List<Comment> comments = context.comments.Where(x => x.Post.PostId == Id).ToList();
+            ViewBag.Comments = comments;
             return View("TrailerDetail", trailer);
         }
         
@@ -24,7 +26,8 @@ namespace MNS_Reviews.Controllers
 
         [HttpPost]
         public IActionResult Create(Trailer trailer)
-        {   
+        {
+            trailer.imgUrl = "https://img.youtube.com/vi/"+trailer.imgUrl+"/0.jpg";
             context.trailers.Add(trailer);
             context.SaveChanges();
             return View();

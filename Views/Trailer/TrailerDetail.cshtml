@@ -1,35 +1,66 @@
 ﻿@model MNS_Reviews.Models.Trailer;
+@using MNS_Reviews.Models
+@using System.Security.Claims
 
 @{
     ViewData["Title"] = @Model.title;
+
 }
 
-<div class="post-detail" id="trailer"> 
+<div class="post-detail" id="trailer">
 
-    <div class="post-detail-header" id="trailer-header"> 
+    <div class="post-detail-header" id="trailer-header">
         <h1>@Model.title  </h1>
     </div>
 
-<div class="trailer-cont">
-<iframe class="trailer-frame" 
-src="@Model.link" 
-title="YouTube video player"
-allow="accelerometer; autoplay; clipboard-write; 
-encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+    <div class="trailer-cont">
+        <iframe class="trailer-frame"
+                src="@Model.link"
+                title="YouTube video player"
+                allow="accelerometer; autoplay; clipboard-write;
+encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
 
- </div>
+    </div>
 
+    <div class="post-detail-text">
+        <p>
+            @Model.text
+        </p>
 
-
- <div class="post-detail-text">
-     <p>
-         @Model.text
-     </p>
-
- </div>
-   </div>
+    </div>
+</div>
 
 
-  @Html.Partial("_Comment")
-  @Html.Partial("_Comment")
+
+
+<h1 style="color:white">Comments</h1>
+<hr />
+<div class="post-cont">
+
+
+
+    <form asp-controller="Comment" asp-action="Create" class="comment-form">
+        <textarea id="CommentText" name="CommentText" rows="6" cols="110" maxlength="670"></textarea>
+
+        <button class="comment-create-button"> Send </button>
+
+        <input type="hidden" id="CommentOwner" name="CommentOwner" value="@User" />
+        <input type="hidden" id="OwnerId" name="OwnerId" value="@User.Claims.Where(c => c.Type == "userId" ).Select(c => c.Value).SingleOrDefault()" />
+        <input type="hidden" id="OwnerName" name="OwnerName" value="@User.Claims.Where(c => c.Type == ClaimTypes.Name ).Select(c => c.Value).SingleOrDefault()" />
+        <input type="hidden" id="PostId" name="PostId" value="@Model.PostId" />
+
+
+    </form>
+</div>
+
+@foreach (Comment comment in ViewBag.Comments)
+{
+    @await Html.PartialAsync("_Comment", comment)
+    ;
+}
+
+
+
+
+

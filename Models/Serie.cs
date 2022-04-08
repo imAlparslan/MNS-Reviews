@@ -10,7 +10,6 @@ namespace MNS_Reviews.Models
         public string actors { get; set; }
         public string season { get; set; }
         public string relaseDate { get; set; }
-        public string imgUrl { get; set; }
 
     }
 }

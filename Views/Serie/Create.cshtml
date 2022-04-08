@@ -1,4 +1,4 @@
-﻿@model MNS_Reviews.Models.Serie
+﻿@model MNS_Reviews.Models.SerieCreate
 
 @{
     ViewData["Title"] = "Create Serie";
@@ -9,7 +9,7 @@
 </div>
 <hr />
 
-<form asp-action="Create" id="post-create-form">
+<form asp-action="Create" id="post-create-form" enctype="multipart/form-data">
     <div asp-validation-summary="ModelOnly" class="text-danger"></div>
     <div class="form-row" id="post-create-form-row">
         <label asp-for="director" class="control-label">Director(s)</label>

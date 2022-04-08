@@ -1,0 +1,49 @@
+﻿
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MNS-Reviews</title>
+    <link rel="stylesheet" href="~/css/post.css" asp-append-version="true">
+    <link rel="stylesheet" href="~/css/form.css" asp-append-version="true">
+    <link rel="stylesheet" href="~/css/navbar.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/post-detail.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/admin.css" asp-append-version="true" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Asul&family=Work+Sans&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <header>
+        <div class="nav-conteiner">
+            <ul class="nav-main-buttons">
+                <li><a asp-controller="Home" asp-action="Index">Posts</a></li>
+                <li><a asp-controller="Home" asp-action="Movies">Movies</a></li>
+                <li><a asp-controller="Home" asp-action="Series">Series</a></li>
+                <li><a asp-controller="Home" asp-action="Trailers">Trailers</a></li>
+                <li><a asp-controller="Home" asp-action="Reviews">Reviews</a></li>
+            </ul>
+
+
+
+            <ul id="sl" class="nav-main-buttons">
+
+                <li><a asp-controller="Login" asp-action="Logout">Logout</a></li>
+            </ul>
+
+        </div>
+    </header>
+    <div>
+        @RenderBody()
+
+    </div>
+    <hr />
+    <footer>
+        <p style="color:white">&copy; @DateTime.Now.Year - MNS-Reviews</p>
+    </footer>
+
+</body>
+</html>

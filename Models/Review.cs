@@ -6,7 +6,6 @@ namespace MNS_Reviews.Models
     [Table("Review")]
     public class Review : Post
     {
-        public string imgUrl { get; set; }
 
     }
 }
